@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R3ZUnHa2ZU+WIaBBOQoR/NqqVIbsZGjy6FsbNb6VY0thLRM+wV7+YkedsQkED8OIzvUgQWy9N5NeHB+b+fQDCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\GT\\GTlib\\ShowCase\\ShowCase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
