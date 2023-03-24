@@ -34,11 +34,11 @@ If you want to animate your text with the effect fully, you can do something lik
             testGlitch.setText("Hello World","Arial",30, "#1b3646");
             testGlitch.GenerateFrames(120,20,1);
         }
-
+	
         public void UpdateLoop(object sender, EventArgs e)
         {
             testCanvas.Background = testGlitch.GetNextFrame();
         }
-	}
+    }
 ```
 
