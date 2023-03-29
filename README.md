@@ -49,3 +49,7 @@ https://www.nuget.org/packages/Akto.GTLib#readme-body-tab
 # live example of the code above :
 
 ![til](Untitled.gif)
+
+
+# Licence 
+MIT
