@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Akto")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("MIT")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Pixel glitch effect for text on a canvas in WPF (for animation and single frame)." +
     " \r\nCreate an instance of GlitchEffect, use it to define the parameters of your e" +
