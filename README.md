@@ -10,7 +10,7 @@ Next set your text like this :
 **The setText function MUST be used before the following functions.**
 
 Next you will have to generate the frames, like this : 
-```cs YourInstanceOfGlitchEffect.GenerateFrames(120,8,2); ```
+```csharp YourInstanceOfGlitchEffect.GenerateFrames(120,8,2); ```
 (120 is the number of frames, 20 is the intensity of the effect, 2 is the offset of the pixels affect by the effect)
 
 **The GenerateFrames function MUST be used before the following functions.**
