@@ -42,3 +42,5 @@ If you want to animate your text with the effect fully, you can do something lik
     }
 ```
 
+gif example of the result :
+![til](./Untilted.gif)
