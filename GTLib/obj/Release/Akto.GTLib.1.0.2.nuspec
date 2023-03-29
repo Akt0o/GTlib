@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Akto.GTLib</id>
+    <version>1.0.2</version>
+    <title>GTLib Glitched Text Effect for WPF</title>
+    <authors>Akto</authors>
+    <icon>logo.png</icon>
+    <readme>README.md</readme>
+    <description>Pixel glitch effect for text on a canvas in WPF (for animation and single frame). 
+Create an instance of GlitchEffect, use it to define the parameters of your effect and get the results.</description>
+    <copyright>MIT</copyright>
+    <tags>wpf text effect canvas c#</tags>
+    <repository type="github" url="https://github.com/Akt0o/GTlib" />
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="System.Drawing.Common" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\user\Documents\GitHub\GT\GTlib\GTLib\bin\Release\net6.0-windows\GTLib.dll" target="lib\net6.0-windows7.0\GTLib.dll" />
+    <file src="C:\Users\user\Documents\GitHub\GT\GTlib\GTLib\logo.png" target="\logo.png" />
+    <file src="C:\Users\user\Documents\GitHub\GT\GTlib\README.md" target="\README.md" />
+  </files>
+</package>

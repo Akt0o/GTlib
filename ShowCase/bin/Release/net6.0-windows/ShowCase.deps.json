@@ -8,8 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "ShowCase/1.0.0": {
         "dependencies": {
-          "Akto.GTLib": "1.0.0",
-          "GTLib": "1.0.0.0"
+          "Akto.GTLib": "1.0.1",
+          "GTLib": "1.0.1.0"
         },
         "runtime": {
           "ShowCase.dll": {}
@@ -50,7 +50,7 @@
           }
         }
       },
-      "Akto.GTLib/1.0.0": {
+      "Akto.GTLib/1.0.1": {
         "dependencies": {
           "System.Drawing.Common": "7.0.0"
         },
@@ -58,11 +58,11 @@
           "GTLib.dll": {}
         }
       },
-      "GTLib/1.0.0.0": {
+      "GTLib/1.0.1.0": {
         "runtime": {
           "GTLib.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
           }
         }
       }
@@ -88,12 +88,12 @@
       "path": "system.drawing.common/7.0.0",
       "hashPath": "system.drawing.common.7.0.0.nupkg.sha512"
     },
-    "Akto.GTLib/1.0.0": {
+    "Akto.GTLib/1.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "GTLib/1.0.0.0": {
+    "GTLib/1.0.1.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

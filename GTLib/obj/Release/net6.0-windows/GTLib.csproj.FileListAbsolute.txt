@@ -10,3 +10,4 @@ C:\Users\user\Documents\GitHub\GT\GTlib\GTLib\obj\Release\net6.0-windows\GTLib.d
 C:\Users\user\Documents\GitHub\GT\GTlib\GTLib\obj\Release\net6.0-windows\refint\GTLib.dll
 C:\Users\user\Documents\GitHub\GT\GTlib\GTLib\obj\Release\net6.0-windows\GTLib.pdb
 C:\Users\user\Documents\GitHub\GT\GTlib\GTLib\obj\Release\net6.0-windows\ref\GTLib.dll
+C:\Users\user\Documents\GitHub\GT\GTlib\GTLib\obj\Release\net6.0-windows\GTLib.g.resources
